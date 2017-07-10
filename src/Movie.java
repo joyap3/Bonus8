@@ -39,7 +39,7 @@ public class Movie {
 
     @Override
     public String toString() {
-        return "Movie:"  + title ;
+        return title ;
     }
 
     public ArrayList<Movie> listOfMovies() {
